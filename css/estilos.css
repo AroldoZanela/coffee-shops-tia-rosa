@@ -1,0 +1,26 @@
+corpo {
+    font-family: Arial, sans-serif;
+}
+
+cabecalho.jumbotron {
+    background: url('../assets/img/coffee.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+cabecalho .display-4 {
+    font-weight: bold;
+}
+
+secao {
+    margin: 40px 0;
+}
+
+#galeria img {
+    margin-bottom: 15px;
+}
+
+rodape {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
